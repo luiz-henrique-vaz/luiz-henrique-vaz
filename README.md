@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @luizhenriquevaz
-- 👀 I’m interested in database and front end
-- 🌱 I’m currently learning SQL, HTML, CSS and python.
-- 💞️ I’m looking to collaborate on new projects with my knowledge
-- 📫 How to reach me on instagram: luihsvaz_
+- Hello everyone, I'm Luiz Vaz and I'm 20 yo and a Science Computer Student
+- I'm currently learning more about JavaScript, Python and Node.js. My dream is become a Software Engineer when I graduate in College.
+- Here, I'm posting my student projects and my personal project that I make to train.
+- Reach me on instagram: luihsvaz_
 
 <!---
 luizhenriquevaz/luizhenriquevaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
