@@ -1,5 +1,4 @@
 <h1 align="center">Olá, sou Luiz Vaz</h1>
-<h3 align="center">Sou um estudante de Ciência da Computação, amante de aplicações web.</h3>
 
 - 🌱 Atualmente estou estudando **React, ReactNative, Next.js, Node.js e Express**
 
