@@ -8,7 +8,7 @@
 - 📄 Um pouco das minhas experiências **Atualmente, estou estagiando na área de Infraestrutura de Aplicações Web através de serviços Azure e serviços On-premises como IIS, WebSphere, Apache TomCat em ambientes Linux e Windows. A parte de monitoramento dessas aplicações nos servidores, realizamos através da ferramenta do NewRelic.**
  
   **Além da infraestrutura, também já realizei automação de análise de dados utilizando a linguagem Python com a biblioteca Pandas e nesses últimos meses meu maior foco vendo sendo nas tecnologias de desenvolvimento web como React, Next, Node e a linguagem PHP.**   
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Se conecte commigo no LinkedIn:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/luiz-henrique-vaz-ba6b46234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luiz-henrique-vaz-ba6b46234/" height="30" width="40" /></a>
 </p>
