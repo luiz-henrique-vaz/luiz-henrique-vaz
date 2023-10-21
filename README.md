@@ -1,4 +1,4 @@
-<h1 align="center" style="color: green;">Olá, sou Luiz Vaz</h1>
+<h1 align="center">Olá, sou Luiz Vaz</h1>
 
 - 🌱 Atualmente estou estudando **React, ReactNative, Next.js, Node.js e Express**
 
