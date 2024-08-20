@@ -1,5 +1,5 @@
 # About:
- Estagio na área de Infraestrutura de Middleware, onde sou responsável pela sustentação e monitoramento dos sistemas hospedados em Azure, Jboss, IIS, Apache e Azure, tanto em servidores Windows quanto em Linux<br>Estou buscando colocar em prática todo o conhecimento que tenho e estou conquistando nas tecnologias de desenvolvimento web através de projetos usando principalmente javascript (react e node) e estou começando com C# (dotnet) recentemente<br>
+ Estagio na área de Infraestrutura de Middleware, onde sou responsável pela sustentação e monitoramento dos sistemas hospedados em Azure, Jboss, IIS, Apache e Azure, tanto em servidores Windows quanto em Linux <br> <br>Estou buscando colocar em prática todo o conhecimento que tenho e estou conquistando nas tecnologias de desenvolvimento web através de projetos usando principalmente javascript (react e node) e estou começando com C# (dotnet) recentemente<br>
 
 
 ## Social:
