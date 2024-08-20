@@ -1,16 +1,18 @@
-<h1 align="center">Olá, sou Luiz Vaz</h1>
+# About:
+ Estagio na área de Infraestrutura de Middleware, onde sou responsável pela sustentação e monitoramento dos sistemas hospedados em Azure, Jboss, IIS, Apache e Azure, tanto em servidores Windows quanto em Linux<br>Estou buscando colocar em prática todo o conhecimento que tenho e estou conquistando nas tecnologias de desenvolvimento web através de projetos usando principalmente javascript (react e node) e estou começando com C# (dotnet) recentemente<br>
 
-- 🌱 Atualmente estou estudando **React, ReactNative, Next.js, Node.js e Express**
 
-- 📄 Um pouco das minhas experiências: **Atualmente, estou estagiando na área de Infraestrutura de Aplicações Web através de serviços Azure e serviços On-premises como IIS, WebSphere, Apache TomCat em ambientes Linux e Windows. A parte de monitoramento dessas aplicações nos servidores, realizamos através da ferramenta do NewRelic.**
- 
-  **Além da infraestrutura, também já realizei automação de análise de dados utilizando a linguagem Python com a biblioteca Pandas e nesses últimos meses meu maior foco vendo sendo nas tecnologias de desenvolvimento web como React, Next, Node e a linguagem PHP.**   
-<h3 align="left">Se conecte comigo no LinkedIn:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/luiz-henrique-vaz-ba6b46234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luiz-henrique-vaz-ba6b46234/" height="30" width="40" /></a>
-</p>
+## Social:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luiz-henrique-vaz-ba6b46234/) 
 
-<h3 align="left">Linguas e ferramentas:</h3>
-![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
+# Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+#  GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=luiz-henrique-vaz&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=luiz-henrique-vaz&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-henrique-vaz&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luiz-henrique-vaz&show_icons=true&locale=en&layout=compact" alt="luiz-henrique-vaz" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=luiz-henrique-vaz&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
